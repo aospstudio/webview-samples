@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WebView</string>
+    <string name="ssl_dialog_title">SSL Certificate Error</string>
+    <string name="ssl_dialog_message">Do you want to continue anyway?</string>
+    <string name="ssl_error">There is a problem with the certificate.</string>
+    <string name="ssl_untrusted">Certificate authority not trusted.</string>
+    <string name="ssl_expired">The certificate has expired.</string>
+    <string name="ssl_idmismatch">Certificate Hostname mismatch.</string>
+    <string name="ssl_notypevalid">The certificate is not valid yet.</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+</resources>
